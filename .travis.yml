@@ -30,7 +30,6 @@ matrix:
       jdk: oraclejdk8
 
   allow_failures:
-    - scala: 2.13.0-M5
     - jdk: oraclejdk10   #Not supported on TravisCI
 
 branches:

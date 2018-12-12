@@ -19,7 +19,7 @@ better-files follows the following `MAJOR.MINOR.PATCH` release conventions:
 * Remove implicit options from all APIs
 
 ## v3.8.0
-* TBD
+* [Issue #279](https://github.com/pathikrit/better-files/issues/279): Deletion of large directories better manages open file handles
 
 ## [v3.7.0](https://github.com/pathikrit/better-files/releases/tag/v3.7.0)
 * [Issue #248](https://github.com/pathikrit/better-files/issues/248): Release for Scala 2.13.0-M5
